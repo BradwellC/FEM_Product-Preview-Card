@@ -11,7 +11,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -40,4 +39,11 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-# FEM_Product-Preview-Card
+
+### What I learned
+
+Used this project as a way of learning more css and html as well as using it as something to add to my project page on my website.
+
+## Author
+
+- Frontend Mentor - [@BradwellC](https://www.frontendmentor.io/profile/BradwellC)
